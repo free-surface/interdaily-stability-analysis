@@ -185,6 +185,3 @@ For a quick demonstration, first run `interdaily_stability.R` to load the functi
 source("interdaily_stability.R")
 source("is_comparison_example.R")
 ```
-
-必要なら次に、そのまま GitHub に貼れるように
-**「## Usage」以下だけの完成版 README 用テキスト** に整形します。
